@@ -23,7 +23,7 @@ public class MainClass{
                         break;
                     }
                 } catch (Exception e) {
-                    System.err.println("Nhap lai!!!");
+                    System.err.println("Enter Again!!!");
                 }
             }
             switch(select){
