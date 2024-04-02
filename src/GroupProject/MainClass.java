@@ -9,7 +9,7 @@ public class MainClass{
         Scanner sc = new Scanner(System.in);
         OUTER:
         while(true){
-            System.out.println("===GIAI TOAN===");
+            System.out.println("===GIAI BAI TOAN===");
             System.out.println("1. +");
             System.out.println("2. -");
             System.out.println("3. Nhan");
